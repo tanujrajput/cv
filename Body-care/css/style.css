@@ -1,0 +1,92 @@
+/* title style */
+
+#title{
+  background-color:#1b1a17;
+    color: #fff;
+    padding: 5% 10% 0% 5%;
+}
+.bodybuilder-img{
+  width: 60%;
+  margin-left: 10%;
+  padding-top: 5%;
+}
+.row{
+  padding: 5% 2% 0% 0;
+
+}
+.big-heading{
+  /* font-family: 'Pacifico', cursive; */
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 2%;
+
+}
+.big-heading span{
+    font-family: 'Satisfy', cursive;
+    font-size: 2.5rem;
+}
+.navbar-brand{
+  font-size: 2.2rem;
+  font-family: 'Satisfy', cursive;
+}
+
+/* detail about quality style*/
+#detail{
+  text-align: center;
+  padding: 7% 15%;
+}
+#detail h5{
+  padding-top: 1.2rem;
+}
+#detail div{
+  padding: 4% 2%;
+}
+
+/* slider style */
+#slider{
+    background-color:#1b1a17;
+    text-align: center;
+    padding: 4% 10%;
+}
+#slider h3{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 2%;
+}
+#slider img{
+  border-radius: 100%;
+}
+#slider p{
+  color: #fff;
+  padding-bottom: 4%;
+}
+
+ /* products section */
+ #products{
+   padding: 4% 10%;
+   text-align: center;
+ }
+ #products img{
+   width:50%;
+ }
+ #products h3{
+     font-family: 'Montserrat-bold', sans-serif;
+ }
+ .pro-sec div{
+   padding: 4% 4%;
+ }
+ #products h6{
+   margin-left: 8%;
+   font-family: 'Montserrat-bold', sans-serif;
+ }
+
+ /* contact details */
+ #contact{
+   color: #fff;
+  background-color:#1b1a17;
+  text-align: center;
+  padding: 4% 10%;
+  font-family: 'Montserrat-bold', sans-serif;
+ }
+ #contact i{
+   padding: 2% 4%;
+ }
