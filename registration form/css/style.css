@@ -55,6 +55,7 @@ input::placeholder {
 @media screen and (max-width: 980px) {
   h1{
     margin: 5px 20%;
+    position:static;
    
   }
 
