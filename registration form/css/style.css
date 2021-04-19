@@ -1,0 +1,75 @@
+body{
+  margin: 0;
+  background-color: #d9edf5;
+}
+h1{
+  margin-top:2%;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  color:#2C5625;
+  position: absolute;
+  left: 15%;
+
+}
+.formdata{
+  text-align: left;
+
+
+}
+.forminputs{
+  padding-top: 10%;
+}
+.formdata .form-group{
+  margin-top: 5%;
+}
+.formdata label{
+  text-align: left;
+font-family: 'Original Surfer', cursive;
+  font-size: 1.2rem;
+  color:#2C5625;
+
+}
+.formdata input{
+  width: 30%;
+  border-color:#2C5625;
+  border-width: 2px;
+}
+.btn-primary{
+  background-color: #78A62F;
+font-family: 'Dancing Script', cursive;
+margin-top: 2%;
+
+}
+input::placeholder {
+  color: #1B5B27;
+  font-size: 1.2em;
+  font-style: italic;
+}
+.green-image{
+  width:500px;
+  position:absolute;
+  right: 3px;
+  top:10%;
+  z-index: -1;
+}
+@media screen and (max-width: 980px) {
+  h1{
+    margin: 5px 20%;
+    position: absolute;
+    bottom:220%;
+    right: 500px;
+  }
+
+  .green-image{
+    display: none;
+  }
+  .formdata input{
+    width: 100%;
+  }
+  .girlimg{
+    width: 100%;
+  }
+  .formdata{
+    padding: 5% 5%;
+  }
+}
